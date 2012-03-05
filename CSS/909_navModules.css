@@ -1,0 +1,84 @@
+/* ----------------  CURRENTLY UNUSED. WILL UPDATE SOON. -----------------*/
+
+
+.navAbout {
+	background: url(../_images/glasses.png) no-repeat center 10%;
+	display:inline;
+	float:left;
+	height:175px;
+	margin-right:10px;
+	top:15px;
+	position:relative;
+	text-align:center;
+	width:7.3333333333333%;
+	z-index:3;
+}
+
+.navAbout:hover {
+	background: url(../_images/glasses_full.png) no-repeat center 10%;
+}
+
+
+.navLayouts {
+	background: url(../_images/t-square.png);
+	display:inline-block;
+	float:left;
+	height:auto;
+	margin-right:10px;
+	position:relative;
+	text-align:center;
+	width:8.3333333333333%;
+	z-index:3;
+}
+
+
+.navProjects {
+	background: url(../_images/mouse.png);
+	display:inline-block;
+	float:left;
+	height:auto;
+	margin-right:10px;
+	position:relative;
+	text-align:center;
+	width:8.3333333333333%;
+	z-index:3;
+}
+
+
+.navDrawings {
+	background: url(../_images/pencil.png);
+	display:inline-block;
+	float:left;
+	height:auto;
+	margin-right:10px;
+	position:relative;
+	text-align:center;
+	width:8.3333333333333%;
+	z-index:3;
+}
+
+
+.navTravels {
+	background: url(../_images/converse.png);
+	display:inline-block;
+	float:left;
+	height:auto;
+	margin-right:10px;
+	position:relative;
+	text-align:center;
+	width:8.3333333333333%;
+	z-index:3;
+}
+
+
+.navThoughts {
+	background: url(../_images/notebook.png);
+	display:inline-block;
+	float:left;
+	height:auto;
+	margin-right:10px;
+	position:relative;
+	text-align:center;
+	width:8.3333333333333%;
+	z-index:3;
+}
